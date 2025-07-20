@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "0f39a21fbe092079",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2008ff90d21f271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e372d02f160a0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4f75603c8ac44d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e80e9d1af9e7824",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d6a8109f65755ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a298c1515fba70af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "4c772fa3beffac0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76d444e1588c65bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "41a71722370da177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7499ef6bf615406b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "930ecf7c8df6f08f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "创建链接.md"
+              },
+              "icon": "lucide-list",
+              "title": "创建链接 的大纲"
+            }
+          },
+          {
+            "id": "91b119ff76ee1e35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 未命名 1"
+            }
+          },
+          {
+            "id": "96fb9160b672dc2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 未命名 1"
+            }
+          },
+          {
+            "id": "449540a94308f56a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "54e372d02f160a0a",
+  "lastOpenFiles": [
+    "Initialize a new repo.md",
+    "创建链接.md",
+    "Unit 2.md",
+    "英语回译/新概念三.md",
+    "Unit 1.md",
+    "英语回译/lesson18.md",
+    "未命名 2",
+    "未命名 1",
+    "未命名",
+    "欢迎.md",
+    "英语回译/未命名 1.md",
+    "未命名.md",
+    "英语回译",
+    "Isaac Newton.md",
+    "Three laws of motion.md",
+    "Law of Interi.md",
+    "Untitled.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "Obsidian.md",
+    "未命名 1.md",
+    "2024-12-14.md",
+    "obsidian.md",
+    "2024-12-13.md"
+  ]
+}
