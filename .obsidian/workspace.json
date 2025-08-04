@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e2008ff90d21f271",
+        "id": "e22096900ca8e715",
         "type": "tabs",
         "children": [
           {
-            "id": "54e372d02f160a0a",
+            "id": "e17bbe323036b9ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit 1"
-            }
-          },
-          {
-            "id": "40a3f8d68e0a1164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lesson18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lesson18"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "24",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,11 +67,10 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,10 +105,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创建链接.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "创建链接 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -137,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 未命名 1"
+              "title": "反向链接"
             }
           },
           {
@@ -175,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,41 +164,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40a3f8d68e0a1164",
+  "active": "e17bbe323036b9ec",
   "lastOpenFiles": [
-    "lesson18.md",
-    "Unit 1.md",
-    "Initialize a new repo.md",
-    "创建链接.md",
     "Unit 2.md",
     "英语回译/新概念三.md",
+    "lesson26.md",
+    "instructions.md",
+    "草稿.md",
+    "G.canvas",
+    "未命名.md",
+    "lesson25.md",
+    "lesson24.md",
+    "未命名.canvas",
+    "lesson23.md",
+    "lesson22.md",
+    "2025-07-27.md",
+    "lesson19.md",
+    "Unit 3.md",
+    "lesson21.md",
+    "lesson20.md",
+    "Unit 1.md",
+    "lesson18.md",
+    "欢迎.md",
+    "创建链接.md",
+    "Initialize a new repo.md",
     "英语回译/lesson18.md",
     "未命名 2",
     "未命名 1",
     "未命名",
-    "欢迎.md",
     "英语回译/未命名 1.md",
-    "未命名.md",
     "英语回译",
     "Isaac Newton.md",
     "Three laws of motion.md",
     "Law of Interi.md",
-    "Untitled.md",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "Obsidian.md",
-    "未命名 1.md",
-    "2024-12-14.md",
-    "obsidian.md",
-    "2024-12-13.md"
+    "Obsidian.md"
   ]
 }

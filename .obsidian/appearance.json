@@ -1,3 +1,6 @@
 {
-  "accentColor": "#915cf5"
+  "accentColor": "#915cf5",
+  "textFontFamily": "Comic Sans MS",
+  "interfaceFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Comic Sans MS"
 }
